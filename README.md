@@ -45,3 +45,5 @@ Je propose à la place de cette méthode qui a comme risque de créer des ids id
 
 
 ## Etape 2 : où sont les tests ?!
+
+Les tests à réaliser ont été effectués
