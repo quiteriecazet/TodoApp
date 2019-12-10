@@ -44,6 +44,8 @@ Je propose à la place de cette méthode qui a comme risque de créer des ids id
     *1574089341614461
 
 
-## Etape 2 : où sont les tests ?!
+## Etape 2 : Où sont les tests ?!
 
 Les tests à réaliser ont été effectués
+
+## Etape 3 : Optimisez la performance
